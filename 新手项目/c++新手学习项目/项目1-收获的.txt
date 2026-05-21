@@ -1,5 +1,0 @@
-CSV文件 = 极其简约的 Excel 表格 + 不同系统和软件之间交换数据的纯文本格式
-读取文件：
-include<fstream> 和  std::ifstream file("sensor_log.csv"); 
-vector动态数组以及map自动插入框架 std::map<std::string,int > a;  默认开始插入值0；
-有a[ test1 ] a[ test2 ] a[ test3 ] 
