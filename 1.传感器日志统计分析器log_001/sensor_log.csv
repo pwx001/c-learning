@@ -1,0 +1,9 @@
+timestamp,sensor_id,target_type,distance,speed
+162000.123,CAM01,car,12.3,0.0
+162000.123,RAD01,car,11.9,5.2
+162000.234,CAM01,pedestrian,8.5,1.2
+162000.456,RAD01,bicycle,15.0,4.5
+162000.456,CAM01,bicycle,14.8,0.0
+162000.789,CAM01,car,9.2,0.0
+162000.789,RAD01,car,9.0,6.1
+162001.000,RAD01,truck,20.5,3.2
